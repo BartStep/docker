@@ -1,150 +1,149 @@
-
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:g="http://base.google.com/ns/1.0">
 
-<channel>
-<title><![CDATA[Integrations]]></title>
-<description><![CDATA[Shop powered by PrestaShop]]></description>
-<link href="http://f1-prestashop.web-integration-dev.v.l/" rel="alternate" type="text/html"/>
-<image>
-<url>http://f1-prestashop.web-integration-dev.v.l/img/logo.png</url>
-<link>http://f1-prestashop.web-integration-dev.v.l/</link>
-</image>
-<modified>2021-02-10 T01:01:01Z</modified>
-<author>
-<name>Franck Dr Smoke</name>
-</author>
+    <channel>
+        <title><![CDATA[Integrations]]></title>
+        <description><![CDATA[Shop powered by PrestaShop]]></description>
+        <link href="http://f1-prestashop.web-integration-dev.v.l/" rel="alternate" type="text/html"/>
+        <image>
+            <url>http://f1-prestashop.web-integration-dev.v.l/img/logo.png</url>
+            <link>http://f1-prestashop.web-integration-dev.v.l/</link>
+        </image>
+        <modified>2021-02-10 T01:01:01Z</modified>
+        <author>
+            <name>Franck Dr Smoke</name>
+        </author>
 
-<item>
-<g:id>1</g:id>
-<title><![CDATA[Faded Short Sleeve T-shirts]]></title>
-<description><![CDATA[Faded short sleeve t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!]]></description>
-<link><![CDATA[http://f1-prestashop.web-integration-dev.v.l/pl/tshirts/1-faded-short-sleeve-tshirts.html]]></link>
-<g:image_link><![CDATA[http://f1-prestashop.web-integration-dev.v.l/1-large_default/faded-short-sleeve-tshirts.jpg]]></g:image_link>
-<g:additional_image_link><![CDATA[http://f1-prestashop.web-integration-dev.v.l/2-large_default/faded-short-sleeve-tshirts.jpg]]></g:additional_image_link>
-<g:additional_image_link><![CDATA[http://f1-prestashop.web-integration-dev.v.l/3-large_default/faded-short-sleeve-tshirts.jpg]]></g:additional_image_link>
-<g:additional_image_link><![CDATA[http://f1-prestashop.web-integration-dev.v.l/4-large_default/faded-short-sleeve-tshirts.jpg]]></g:additional_image_link>
-<g:condition><![CDATA[new]]></g:condition>
-<g:product_type><![CDATA[Women > Tops > T-shirts]]></g:product_type>
-<g:google_product_category><![CDATA[Google Category Example > Google Sub-Category Example]]></g:google_product_category>
-<g:quantity>1791</g:quantity>
-<g:availability>in stock</g:availability>
-<g:price>20.31 BZD</g:price>
-<g:brand><![CDATA[Fashion Manufacturer]]></g:brand>
-<g:mpn><![CDATA[demo_1]]></g:mpn>
-<g:shipping>
-	<g:country>UK</g:country>
-	<g:service>Standard</g:service>
-	<g:price>0 BZD</g:price>
-</g:shipping>
-</item>
+        <item>
+            <g:id>1</g:id>
+            <title><![CDATA[Faded Short Sleeve T-shirts]]></title>
+            <description><![CDATA[Faded short sleeve t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!]]></description>
+            <link><![CDATA[http://f1-prestashop.web-integration-dev.v.l/pl/tshirts/1-faded-short-sleeve-tshirts.html]]></link>
+            <g:image_link><![CDATA[http://f1-prestashop.web-integration-dev.v.l/1-large_default/faded-short-sleeve-tshirts.jpg]]></g:image_link>
+            <g:additional_image_link><![CDATA[http://f1-prestashop.web-integration-dev.v.l/2-large_default/faded-short-sleeve-tshirts.jpg]]></g:additional_image_link>
+            <g:additional_image_link><![CDATA[http://f1-prestashop.web-integration-dev.v.l/3-large_default/faded-short-sleeve-tshirts.jpg]]></g:additional_image_link>
+            <g:additional_image_link><![CDATA[http://f1-prestashop.web-integration-dev.v.l/4-large_default/faded-short-sleeve-tshirts.jpg]]></g:additional_image_link>
+            <g:condition><![CDATA[new]]></g:condition>
+            <g:product_type><![CDATA[Women > Tops > T-shirts]]></g:product_type>
+            <g:google_product_category><![CDATA[Google Category Example > Google Sub-Category Example]]></g:google_product_category>
+            <g:quantity>1791</g:quantity>
+            <g:availability>in stock</g:availability>
+            <g:price>20.31 BZD</g:price>
+            <g:brand><![CDATA[Fashion Manufacturer]]></g:brand>
+            <g:mpn><![CDATA[demo_1]]></g:mpn>
+            <g:shipping>
+                <g:country>UK</g:country>
+                <g:service>Standard</g:service>
+                <g:price>0 BZD</g:price>
+            </g:shipping>
+        </item>
 
-<item>
-<g:id>5</g:id>
-<title><![CDATA[Printed Summer Dress]]></title>
-<description><![CDATA[Long printed dress with thin adjustable straps. V-neckline and wiring under the bust with ruffles at the bottom of the dress.]]></description>
-<link><![CDATA[http://f1-prestashop.web-integration-dev.v.l/pl/summer-dresses/5-printed-summer-dress.html]]></link>
-<g:image_link><![CDATA[http://f1-prestashop.web-integration-dev.v.l/12-large_default/printed-summer-dress.jpg]]></g:image_link>
-<g:additional_image_link><![CDATA[http://f1-prestashop.web-integration-dev.v.l/13-large_default/printed-summer-dress.jpg]]></g:additional_image_link>
-<g:additional_image_link><![CDATA[http://f1-prestashop.web-integration-dev.v.l/14-large_default/printed-summer-dress.jpg]]></g:additional_image_link>
-<g:additional_image_link><![CDATA[http://f1-prestashop.web-integration-dev.v.l/15-large_default/printed-summer-dress.jpg]]></g:additional_image_link>
-<g:condition><![CDATA[new]]></g:condition>
-<g:product_type><![CDATA[Women > Dresses > Summer Dresses]]></g:product_type>
-<g:google_product_category><![CDATA[Google Category Example > Google Sub-Category Example]]></g:google_product_category>
-<g:quantity>3600</g:quantity>
-<g:availability>in stock</g:availability>
-<g:price>37.52 BZD</g:price>
-<g:sale_price>35.64 BZD</g:sale_price>
-<g:brand><![CDATA[Fashion Manufacturer]]></g:brand>
-<g:mpn><![CDATA[demo_5]]></g:mpn>
-<g:shipping>
-	<g:country>UK</g:country>
-	<g:service>Standard</g:service>
-	<g:price>0 BZD</g:price>
-</g:shipping>
-</item>
+        <item>
+            <g:id>5</g:id>
+            <title><![CDATA[Printed Summer Dress]]></title>
+            <description><![CDATA[Long printed dress with thin adjustable straps. V-neckline and wiring under the bust with ruffles at the bottom of the dress.]]></description>
+            <link><![CDATA[http://f1-prestashop.web-integration-dev.v.l/pl/summer-dresses/5-printed-summer-dress.html]]></link>
+            <g:image_link><![CDATA[http://f1-prestashop.web-integration-dev.v.l/12-large_default/printed-summer-dress.jpg]]></g:image_link>
+            <g:additional_image_link><![CDATA[http://f1-prestashop.web-integration-dev.v.l/13-large_default/printed-summer-dress.jpg]]></g:additional_image_link>
+            <g:additional_image_link><![CDATA[http://f1-prestashop.web-integration-dev.v.l/14-large_default/printed-summer-dress.jpg]]></g:additional_image_link>
+            <g:additional_image_link><![CDATA[http://f1-prestashop.web-integration-dev.v.l/15-large_default/printed-summer-dress.jpg]]></g:additional_image_link>
+            <g:condition><![CDATA[new]]></g:condition>
+            <g:product_type><![CDATA[Women > Dresses > Summer Dresses]]></g:product_type>
+            <g:google_product_category><![CDATA[Google Category Example > Google Sub-Category Example]]></g:google_product_category>
+            <g:quantity>3600</g:quantity>
+            <g:availability>in stock</g:availability>
+            <g:price>37.52 BZD</g:price>
+            <g:sale_price>35.64 BZD</g:sale_price>
+            <g:brand><![CDATA[Fashion Manufacturer]]></g:brand>
+            <g:mpn><![CDATA[demo_5]]></g:mpn>
+            <g:shipping>
+                <g:country>UK</g:country>
+                <g:service>Standard</g:service>
+                <g:price>0 BZD</g:price>
+            </g:shipping>
+        </item>
 
-<item>
-<g:id>6</g:id>
-<title><![CDATA[Printed Summer Dress]]></title>
-<description><![CDATA[Sleeveless knee-length chiffon dress. V-neckline with elastic under the bust lining.]]></description>
-<link><![CDATA[http://f1-prestashop.web-integration-dev.v.l/pl/summer-dresses/6-printed-summer-dress.html]]></link>
-<g:image_link><![CDATA[http://f1-prestashop.web-integration-dev.v.l/16-large_default/printed-summer-dress.jpg]]></g:image_link>
-<g:additional_image_link><![CDATA[http://f1-prestashop.web-integration-dev.v.l/17-large_default/printed-summer-dress.jpg]]></g:additional_image_link>
-<g:additional_image_link><![CDATA[http://f1-prestashop.web-integration-dev.v.l/18-large_default/printed-summer-dress.jpg]]></g:additional_image_link>
-<g:additional_image_link><![CDATA[http://f1-prestashop.web-integration-dev.v.l/19-large_default/printed-summer-dress.jpg]]></g:additional_image_link>
-<g:condition><![CDATA[new]]></g:condition>
-<g:product_type><![CDATA[Women > Dresses > Summer Dresses]]></g:product_type>
-<g:google_product_category><![CDATA[Google Category Example > Google Sub-Category Example]]></g:google_product_category>
-<g:quantity>898</g:quantity>
-<g:availability>in stock</g:availability>
-<g:price>37.52 BZD</g:price>
-<g:brand><![CDATA[Fashion Manufacturer]]></g:brand>
-<g:mpn><![CDATA[demo_6]]></g:mpn>
-<g:shipping>
-	<g:country>UK</g:country>
-	<g:service>Standard</g:service>
-	<g:price>0 BZD</g:price>
-</g:shipping>
-</item>
+        <item>
+            <g:id>6</g:id>
+            <title><![CDATA[Printed Summer Dress]]></title>
+            <description><![CDATA[Sleeveless knee-length chiffon dress. V-neckline with elastic under the bust lining.]]></description>
+            <link><![CDATA[http://f1-prestashop.web-integration-dev.v.l/pl/summer-dresses/6-printed-summer-dress.html]]></link>
+            <g:image_link><![CDATA[http://f1-prestashop.web-integration-dev.v.l/16-large_default/printed-summer-dress.jpg]]></g:image_link>
+            <g:additional_image_link><![CDATA[http://f1-prestashop.web-integration-dev.v.l/17-large_default/printed-summer-dress.jpg]]></g:additional_image_link>
+            <g:additional_image_link><![CDATA[http://f1-prestashop.web-integration-dev.v.l/18-large_default/printed-summer-dress.jpg]]></g:additional_image_link>
+            <g:additional_image_link><![CDATA[http://f1-prestashop.web-integration-dev.v.l/19-large_default/printed-summer-dress.jpg]]></g:additional_image_link>
+            <g:condition><![CDATA[new]]></g:condition>
+            <g:product_type><![CDATA[Women > Dresses > Summer Dresses]]></g:product_type>
+            <g:google_product_category><![CDATA[Google Category Example > Google Sub-Category Example]]></g:google_product_category>
+            <g:quantity>898</g:quantity>
+            <g:availability>in stock</g:availability>
+            <g:price>37.52 BZD</g:price>
+            <g:brand><![CDATA[Fashion Manufacturer]]></g:brand>
+            <g:mpn><![CDATA[demo_6]]></g:mpn>
+            <g:shipping>
+                <g:country>UK</g:country>
+                <g:service>Standard</g:service>
+                <g:price>0 BZD</g:price>
+            </g:shipping>
+        </item>
 
-<item>
-<g:id>191</g:id>
-<title><![CDATA[vfvfw1524553307]]></title>
-<description><![CDATA[]]></description>
-<link><![CDATA[http://f1-prestashop.web-integration-dev.v.l/pl/home/191-vfvfw1524553307.html]]></link>
-<g:condition><![CDATA[new]]></g:condition>
-<g:product_type><![CDATA[]]></g:product_type>
-<g:google_product_category><![CDATA[Google Category Example > Google Sub-Category Example]]></g:google_product_category>
-<g:quantity>108</g:quantity>
-<g:availability>in stock</g:availability>
-<g:price>86.1 BZD</g:price>
-<g:identifier_exists>FALSE</g:identifier_exists>
-<g:shipping>
-	<g:country>UK</g:country>
-	<g:service>Standard</g:service>
-	<g:price>0 BZD</g:price>
-</g:shipping>
-</item>
+        <item>
+            <g:id>191</g:id>
+            <title><![CDATA[vfvfw1524553307]]></title>
+            <description><![CDATA[]]></description>
+            <link><![CDATA[http://f1-prestashop.web-integration-dev.v.l/pl/home/191-vfvfw1524553307.html]]></link>
+            <g:condition><![CDATA[new]]></g:condition>
+            <g:product_type><![CDATA[]]></g:product_type>
+            <g:google_product_category><![CDATA[Google Category Example > Google Sub-Category Example]]></g:google_product_category>
+            <g:quantity>108</g:quantity>
+            <g:availability>in stock</g:availability>
+            <g:price>86.1 BZD</g:price>
+            <g:identifier_exists>FALSE</g:identifier_exists>
+            <g:shipping>
+                <g:country>UK</g:country>
+                <g:service>Standard</g:service>
+                <g:price>0 BZD</g:price>
+            </g:shipping>
+        </item>
 
-<item>
-<g:id>193</g:id>
-<title><![CDATA[rhmyj1524553476]]></title>
-<description><![CDATA[]]></description>
-<link><![CDATA[http://f1-prestashop.web-integration-dev.v.l/pl/home/193-rhmyj1524553476.html]]></link>
-<g:condition><![CDATA[new]]></g:condition>
-<g:product_type><![CDATA[]]></g:product_type>
-<g:google_product_category><![CDATA[Google Category Example > Google Sub-Category Example]]></g:google_product_category>
-<g:quantity>24</g:quantity>
-<g:availability>in stock</g:availability>
-<g:price>40.59 BZD</g:price>
-<g:identifier_exists>FALSE</g:identifier_exists>
-<g:shipping>
-	<g:country>UK</g:country>
-	<g:service>Standard</g:service>
-	<g:price>0 BZD</g:price>
-</g:shipping>
-</item>
+        <item>
+            <g:id>193</g:id>
+            <title><![CDATA[rhmyj1524553476]]></title>
+            <description><![CDATA[]]></description>
+            <link><![CDATA[http://f1-prestashop.web-integration-dev.v.l/pl/home/193-rhmyj1524553476.html]]></link>
+            <g:condition><![CDATA[new]]></g:condition>
+            <g:product_type><![CDATA[]]></g:product_type>
+            <g:google_product_category><![CDATA[Google Category Example > Google Sub-Category Example]]></g:google_product_category>
+            <g:quantity>24</g:quantity>
+            <g:availability>in stock</g:availability>
+            <g:price>40.59 BZD</g:price>
+            <g:identifier_exists>FALSE</g:identifier_exists>
+            <g:shipping>
+                <g:country>UK</g:country>
+                <g:service>Standard</g:service>
+                <g:price>0 BZD</g:price>
+            </g:shipping>
+        </item>
 
-<item>
-<g:id>201</g:id>
-<title><![CDATA[testowyProduct1537446741]]></title>
-<description><![CDATA[]]></description>
-<link><![CDATA[http://f1-prestashop.web-integration-dev.v.l/pl/home/201-testowyProduct1537446741.html]]></link>
-<g:condition><![CDATA[new]]></g:condition>
-<g:product_type><![CDATA[]]></g:product_type>
-<g:google_product_category><![CDATA[Google Category Example > Google Sub-Category Example]]></g:google_product_category>
-<g:quantity>11</g:quantity>
-<g:availability>in stock</g:availability>
-<g:price>15184.35 BZD</g:price>
-<g:mpn><![CDATA[testowyProduct1537446741]]></g:mpn>
-<g:identifier_exists>FALSE</g:identifier_exists>
-<g:shipping>
-	<g:country>UK</g:country>
-	<g:service>Standard</g:service>
-	<g:price>0 BZD</g:price>
-</g:shipping>
-</item>
+        <item>
+            <g:id>201</g:id>
+            <title><![CDATA[testowyProduct1537446741]]></title>
+            <description><![CDATA[]]></description>
+            <link><![CDATA[http://f1-prestashop.web-integration-dev.v.l/pl/home/201-testowyProduct1537446741.html]]></link>
+            <g:condition><![CDATA[new]]></g:condition>
+            <g:product_type><![CDATA[]]></g:product_type>
+            <g:google_product_category><![CDATA[Google Category Example > Google Sub-Category Example]]></g:google_product_category>
+            <g:quantity>11</g:quantity>
+            <g:availability>in stock</g:availability>
+            <g:price>15184.35 BZD</g:price>
+            <g:mpn><![CDATA[testowyProduct1537446741]]></g:mpn>
+            <g:identifier_exists>FALSE</g:identifier_exists>
+            <g:shipping>
+                <g:country>UK</g:country>
+                <g:service>Standard</g:service>
+                <g:price>0 BZD</g:price>
+            </g:shipping>
+        </item>
 
-</channel>
+    </channel>
 </rss>
